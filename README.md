@@ -18,6 +18,7 @@
 # 개인 프로젝트
 - 싱글 오목 (C#) : https://github.com/Milk377/P04_Cs_Omok
 - 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
+- 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 
 
 
