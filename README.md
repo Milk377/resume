@@ -6,7 +6,7 @@
 
 - Andorid Studio 를 사용하여 Java 언어로 팀 프로젝트 어플리케이션 개발 및 출시 경험
 - Unity 3D 를 사용하여 C# 언어로 모바일 게임 개발 및 출시 경험
-- Github, Slack, Jandi , Trello 등을 활용하여 팀프로젝트 진행
+- Github, Slack, Jandi , Trello, Google docs 등을 활용하여 팀프로젝트 진행
 - Visual Stduio 를 사용하여 C++ 언어로 통신 프로그램 개발
 
 
