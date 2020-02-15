@@ -28,7 +28,7 @@
 - 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 주식 자동 매매 프로그램 (C#) :
-- 타로 게임 (Unity, C#) : 
+- 타로 게임 (Unity, C#) : https://github.com/Milk377/TaroGame
 - 궁수의 전설 게임(Unity, C#) : 
 
 
