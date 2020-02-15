@@ -16,6 +16,9 @@
 -미니게임즈 : 
 
 # 개인 프로젝트
+- 싱글 오목 (C#) : https://github.com/Milk377/P04_Cs_Omok
+- 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
+
 
 
 # 구글 마켓 출시 어플리케이션
