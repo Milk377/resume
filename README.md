@@ -32,13 +32,13 @@
 - 주식 자동 매매 프로그램 (C#) :
 
 
-# 구글 마켓 출시 어플리케이션
+# 구글 플레이 스토어 출시 어플리케이션
 - 웹툰 브라우저 : https://play.google.com/store/apps/details?id=com.ndolpin.myapplication.a3webtoon
 - 숫자 카운팅 : https://play.google.com/store/apps/details?id=com.DolphiNolic.myapplication.App2
 - 도파민 일기 : https://play.google.com/store/apps/details?id=com.ndolpin.myapplication.ndolpin
 
 
-# 출시 게임
+# 구글 플레이 스토어 출시 게임
 - 슈터 :
 - 컬러볼 팡팡 : 
 - 클리커 X :
