@@ -1,4 +1,6 @@
 # About me
+![KakaoTalk_20200215_180819291](https://user-images.githubusercontent.com/37606666/74585453-336a4700-5020-11ea-8e65-a8df509eba04.jpg)
+
 - 국민대학교 소프트웨어 학과 4학년 휴학
 - 취미 : 독서, 헬스, 복싱, 코딩, 게임 
 
