@@ -16,7 +16,7 @@
 - Unity 3D 를 사용하여 C# 언어/ Firebase 로 네트워크 모바일 게임 개발 및 출시 경험
 - Github, Slack, Jandi , Trello, Google docs 등을 활용하여 팀프로젝트 진행
 - Visual Stduio 를 사용하여 C++ 언어로 TCP통신 프로그램 개발
-- Visual Studio 를 사용하여 C# 언어/ Oracle DB/ OpenAPI를 활용해 자동 주식 매매 프로그램 개발
+- Visual Studio 를 사용하여 C# 언어/ Oracle DB/ 키움증권 OpenAPI를 활용해 자동 주식 매매 프로그램 개발
 - Java 언어로 디아블로2 자동 사냥 프로그램 및 자동 레벨업 프로그램 보완 및 개발
 
 
