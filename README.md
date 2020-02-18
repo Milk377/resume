@@ -22,10 +22,10 @@
 
 
 # 팀 프로젝트 깃허브
--커뮤니티 어플리케이션 : https://github.com/kookmin-sw/2018-cap1-10 
--찰칵철컹 : 
--ASC : 
--미니게임즈 : 
+- 커뮤니티 어플리케이션 : https://github.com/kookmin-sw/2018-cap1-10 
+- 찰칵철컹 : 
+- ASC : 
+- 미니게임즈 : 
 
 
 # 개인 프로젝트
