@@ -28,9 +28,12 @@
 
 # 대외 활동
 - 게임 BM 분석 스터디 (2019~)
-- AWS summit seoul 참가 (학생 신분으로)
-- Unity seoul 참가 (학생 신분으로)
-- NDC 참가 (학생 신분으로)
+- 게임 제작 스터디 (냥땅먹기)
+- 어플 제작 개발자 그룹(진행중)
+- AWS summit seoul 참가 
+- Unity seoul 참가
+- NDC 참가 
+
 
 
 # 개인 프로젝트
