@@ -19,11 +19,11 @@
 - Visual Stduio 를 사용하여 C++ 언어로 TCP통신 프로그램 개발
 - Visual Studio 를 사용하여 C# 언어/ Oracle DB/ 키움증권 OpenAPI를 활용해 자동 주식 매매 프로그램 개발
 - Java 언어로 디아블로2 자동 사냥 프로그램 및 자동 레벨업 프로그램 보완 및 개발
-
+- OpenCv를 활용한 몰래카메라 탐지 어플을 주제로 삼성 투모로우 솔루션, 대학창의 발명대회 참가
 
 # 팀 프로젝트 깃허브
 - 커뮤니티 어플리케이션 : https://github.com/kookmin-sw/2018-cap1-10 
-- 찰칵철컹/ ASC : 
+- 찰칵철컹/ ASC : https://github.com/Milk377/ASC
 - 미니게임즈 : 
 
 
