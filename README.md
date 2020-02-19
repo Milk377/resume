@@ -26,6 +26,12 @@
 - 찰칵철컹/ ASC : https://github.com/Milk377/ASC
 - 미니게임즈 : 
 
+# 대외 활동
+- 게임 BM 분석 스터디 (2019~)
+- AWS summit seoul 참가 (학생 신분으로)
+- Unity seoul 참가 (학생 신분으로)
+- NDC 참가 (학생 신분으로)
+
 
 # 개인 프로젝트
 - 싱글 오목 (C#) : https://github.com/Milk377/P04_Cs_Omok
