@@ -41,7 +41,7 @@
 
 # 습작 게임
 - 슈터(Unity,C#) :
-- 컬러볼 팡팡(Unity,C#) : 
+- 컬러볼 팡팡(Unity,C#) : https://github.com/Milk377/PangPang
 - 클리커 X :
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 타로 게임 (Unity, C#) : https://github.com/Milk377/TaroGame
