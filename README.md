@@ -39,7 +39,7 @@
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 타로 게임 (Unity, C#) : https://github.com/Milk377/TaroGame
 - 궁수의 전설 게임(Unity, C#) : https://github.com/Milk377/LegendOfArcher
-- 주식 자동 매매 프로그램 (C#) :
+- 주식 자동 매매 프로그램 (C#) : https://github.com/Milk377/AuotoStockInvestProgram
 
 
 # 구글 플레이 스토어 출시 어플리케이션
