@@ -33,13 +33,20 @@
 
 
 
-# 개인 프로젝트
+# 개인 어플리케이션 프로젝트
 - 싱글 오목 (C#) : https://github.com/Milk377/P04_Cs_Omok
 - 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
+- 주식 자동 매매 프로그램 (C#) : https://github.com/Milk377/AuotoStockInvestProgram
+
+
+# 습작 게임
+- 슈터(Unity,C#) :
+- 컬러볼 팡팡(Unity,C#) : 
+- 클리커 X :
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 타로 게임 (Unity, C#) : https://github.com/Milk377/TaroGame
 - 궁수의 전설 게임(Unity, C#) : https://github.com/Milk377/LegendOfArcher
-- 주식 자동 매매 프로그램 (C#) : https://github.com/Milk377/AuotoStockInvestProgram
+
 
 
 # 구글 플레이 스토어 출시 어플리케이션
@@ -47,9 +54,3 @@
 - 숫자 카운팅 : https://play.google.com/store/apps/details?id=com.DolphiNolic.myapplication.App2
 - 도파민 일기 : https://play.google.com/store/apps/details?id=com.ndolpin.myapplication.ndolpin
 
-
-# 구글 플레이 스토어 출시 게임
-- 슈터 :
-- 컬러볼 팡팡 : 
-- 클리커 X :
-- 
