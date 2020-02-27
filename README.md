@@ -2,8 +2,8 @@
 ![111](https://user-images.githubusercontent.com/37606666/74585495-95c34780-5020-11ea-879b-bb0fa6cc811c.jpg)
 
 
-- 국민대학교 소프트웨어 학과 4학년 휴학
-- 토익 880
+- 국민대학교 소프트웨어 학과 4학년 1g학기 휴학
+
 
 # Frontend/ Game Client
 
