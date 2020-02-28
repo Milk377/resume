@@ -11,8 +11,8 @@
 
 
 # Android Studio
-- Andorid Studio 를 사용하여 Java 언어로 팀 프로젝트 어플리케이션 개발 및 출시 경험
-- Android Studio /FireBase를 사용하여 Kotlin 언어로 SNS 앱 개발
+- Andorid Studio 를 사용하여 Java 언어로 팀 프로젝트 어플리케이션 개발 및 출시 경험 (커뮤니티 앱)
+- Android Studio /FireBase를 사용하여 Kotlin 언어로 SNS 앱 개발 (인스타그램 클론 앱)
 
 
 # Unity 3D
