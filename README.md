@@ -5,20 +5,32 @@
 - 국민대학교 소프트웨어 학과 4학년 1학기 휴학
 
 
-# Frontend/ Game Client
+# FrontEnd / BackEnd / GameClient 
 
-# HTML , CSS , JS, C, C++ , C#, Java
-# Visual Studio, Android Studio, Unity3D
+# HTML , CSS , JS, C, C++ , C#, Java, Kotlin
 
+### Android Studio
 - Andorid Studio 를 사용하여 Java 언어로 팀 프로젝트 어플리케이션 개발 및 출시 경험
-- Unity 3D 를 사용하여 C# 언어/ Firebase 로 네트워크 모바일 게임 개발 및 출시 경험
-- Github, Slack, Jandi , Trello, Google docs 등을 활용하여 팀프로젝트 진행
-- Visual Stduio 를 사용하여 C++ 언어로 TCP통신 프로그램 개발
-- Visual Studio 를 사용하여 C# 언어/ Oracle 11g DB/ 키움증권 OpenAPI를 활용해 자동 주식 매매 프로그램 개발
-- Java 언어로 디아블로2 자동 사냥 프로그램 및 자동 레벨업 프로그램 보완 및 개발 
-- OpenCv를 활용한 몰래카메라 탐지 어플을 주제로 삼성 투모로우 솔루션, 대학창의 발명대회 참가 (찰칵철컹)
+- Android Studio /FireBase를 사용하여 Kotlin 언어로 
+
+### Unity 3D
+
+- Unity 3D 를 사용하여 C# 언어/ Firebase 로 네트워크 모바일 게임 개발 경험
+
+### Visual Studio
+
+- Visual Studio / Oracle DB 11g / 키움증권 OpenAPI 를 사용하여 C# 언어를 활용해 자동 주식 매매 프로그램 개발
+- Visual Stduio 를 사용하여 C++ 언어로 TCP 에코통신 프로그램 개발
+- Visual Studio 를 사용하여 C# 언어로 싱글 오목 개발 
+
+### Photoshop 
 - iOS APP/ 포토샵 2020CC 을 활용하여 Dot 캐릭터 및 아이템 리소스 제작
 - Spine 을 활용하여 캐릭터 애니메이션 구현
+
+# Paper Works
+- Github, Slack, Jandi , Trello, Google docs 등을 활용하여 팀프로젝트 진행
+- Java 언어로 디아블로2 자동 사냥 프로그램 및 자동 레벨업 프로그램 보완 및 개발 
+- OpenCv를 활용한 몰래카메라 탐지 어플을 주제로 삼성 투모로우 솔루션, 대학창의 발명대회 참가 (찰칵철컹)
 
 # 팀 프로젝트 깃허브
 - 커뮤니티 어플리케이션 : https://github.com/kookmin-sw/2018-cap1-10 
@@ -40,6 +52,7 @@
 - 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
 - 주식 자동 매매 프로그램 (C#) : https://github.com/Milk377/AuotoStockInvestProgram
 - TCP 에코 통신 프로그램 (C++) : 
+- 안드로이드 SNS 앱 (Kotlin) :
 
 
 # 습작 게임
