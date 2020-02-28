@@ -60,15 +60,15 @@
 
 
 # 습작 게임
-- 슈터(Unity,C#) :
-- 슈팅(Unity,C#) : 
-- 컬러볼 팡팡(Unity,C#) : https://github.com/Milk377/PangPang
+- 슈터 :
+- 슈팅 : 
+- 컬러볼 팡팡 : https://github.com/Milk377/PangPang
 - 클리커 X :
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
-- 타로 게임 (Unity, C#) : https://github.com/Milk377/TaroGame
-- 궁수의 전설 게임(Unity, C#) : https://github.com/Milk377/LegendOfArcher
-- 좀비 서바이벌 - 네트워크 (Unity, C#) : 
-- 도파민 카운터(Unity, C#) :
+- 타로 게임 : https://github.com/Milk377/TaroGame
+- 궁수의 전설 게임 : https://github.com/Milk377/LegendOfArcher
+- 좀비 서바이벌 : 
+- 도파민 카운터 :
 - 
 
 # 아트 리소스
