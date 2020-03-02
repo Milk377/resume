@@ -64,7 +64,7 @@
 
 # 제작 게임
 - 슈터 : 
-- 슈팅 :  
+- 슈팅 :  https://github.com/Milk377/Shooting
 - 컬러볼 팡팡 : https://github.com/Milk377/PangPang
 - 클리커 X : 
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
