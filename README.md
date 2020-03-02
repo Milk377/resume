@@ -43,7 +43,7 @@
 - 커뮤니티 어플리케이션 : https://github.com/kookmin-sw/2018-cap1-10 
 - 찰칵철컹/ ASC : https://github.com/Milk377/ASC
 - 미니게임즈 : 
-
+- 냥땅먹기 : 
 
 # 대외 활동
 - 게임 BM 분석 스터디 모바일게임 BM 분석 및 설계(2019~2020)
