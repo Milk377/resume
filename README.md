@@ -4,7 +4,7 @@
 
 
 # Programming Experience 
-- Java Spring Framework / JSP/ Java / Kotlin / HTML / CSS
+- Java Spring Framework / JSP/ Java / Kotlin / HTML / CSS / Java Script
 - C, C++ , C# 
 - Firebase / Oracle DB 11g / CSV table (in Unity) / PUN (Photon Unity Network in Unity) / AWS
 - Phyton
