@@ -4,9 +4,9 @@
 
 
 # Programming Experience 
-- Java Spring Framework / JSP/ Java / Kotlin 
+- Java Spring Framework / JSP/ Java / Kotlin / HTML / CSS
 - C, C++ , C# 
-- Firebase / Oracle DB / CSV tablem (Unity) / PUN (Photon Unity Network)
+- Firebase / Oracle DB / CSV tablem (Unity) / PUN (Photon Unity Network) / AWS
 - Phyton
 
 # Front End / Back End / Game Client 
