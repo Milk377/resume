@@ -2,12 +2,16 @@
 ![111](https://user-images.githubusercontent.com/37606666/74585495-95c34780-5020-11ea-879b-bb0fa6cc811c.jpg)
 
 
-- 국민대학교 소프트웨어 학과 4학년 1학기 휴학
 
+# Programming Experience 
+- Java Spring Framework / JSP/ Java / Kotlin 
+- C, C++ , C# 
+- Firebase / Oracle DB / CSV tablem (Unity) / PUN (Photon Unity Network)
+- Phyton
 
-# FrontEnd / BackEnd / GameClient 
+# Front End / Back End / Game Client 
 
-# HTML , CSS , JS, C, C++ , C#, Java, Kotlin
+# 주 사용 언어 : C, C++, C#, Java
 
 
 # Android Studio
@@ -20,15 +24,14 @@
 
 
 # Visual Studio
-- Visual Studio / Oracle DB 11g / 키움증권 OpenAPI 를 사용하여 C# 언어를 활용해 자동 주식 매매 프로그램 개발
-- Visual Stduio 를 사용하여 C++ 언어로 TCP 에코통신 프로그램 개발
-- Visual Studio 를 사용하여 C# 언어로 싱글 오목 개발 
+- Visual Studio & Oracle DB 11g + 키움증권 OpenAPI 를 사용하여 C# 언어를 활용해 자동 주식 매매 프로그램 개발 (Windows Forms)
+- Visual Stduio 를 사용하여 C++ 언어로 TCP 에코통신 프로그램 개발 
+- Visual Studio 를 사용하여 C# 언어로 싱글 오목 개발 (Windows Forms)
 
 
 # Photoshop 
 - iOS APP/ 포토샵 2020CC 을 활용하여 Dot 캐릭터 및 아이템 리소스 제작
 - Spine 을 활용하여 캐릭터 애니메이션 구현
-
 
 # Paper Works
 - Github, Slack, Jandi , Trello, Google docs 등을 활용하여 팀프로젝트 진행
@@ -43,9 +46,9 @@
 
 
 # 대외 활동
-- 게임 BM 분석 스터디 (2019~)
-- 게임 제작 스터디 (냥땅먹기)
-- 어플 제작 개발자 그룹(진행중)
+- 게임 BM 분석 스터디 모바일게임 BM 분석 및 설계(2019~2020)
+- 게임 제작 스터디 개발자 
+- 어플 제작 개발자 그룹
 - 2019 AWS summit seoul 참가 경험
 - 2019 Unity seoul 참가 경험
 - 2019 NDC 참가 경험
@@ -59,17 +62,17 @@
 - 안드로이드 SNS 앱 (Kotlin) :
 
 
-# 습작 게임
-- 슈터 :
-- 슈팅 : 
+# 제작 게임
+- 슈터 : 
+- 슈팅 :  
 - 컬러볼 팡팡 : https://github.com/Milk377/PangPang
-- 클리커 X :
+- 클리커 X : 
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 타로 게임 : https://github.com/Milk377/TaroGame
 - 궁수의 전설 게임 : https://github.com/Milk377/LegendOfArcher
 - 좀비 서바이벌 : 
-- 도파민 카운터 :
-- 프린세스 마린 스트라이크 : 
+- 도파민 카운터 : 
+- 프린세스 마린 스트라이크 :
 
 # 아트 리소스
 
