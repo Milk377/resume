@@ -9,7 +9,7 @@
 - Firebase / Oracle DB 11g / CSV table (in Unity) / PUN (Photon Unity Network in Unity) / AWS
 - Phyton
 
-# Front End / Back End / Game Client 
+# Game Client / Android OSFront End / Back End / 
 
 # 주 사용 언어 : C, C++, C#, Java
 
