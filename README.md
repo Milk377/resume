@@ -59,8 +59,8 @@
 - 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
 - 주식 자동 매매 프로그램 (C#) : https://github.com/Milk377/AuotoStockInvestProgram
 - TCP 에코 통신 프로그램 (C++) : 
-- 안드로이드 SNS 앱 (Kotlin) :
-
+- 안드로이드 SNS 앱 (Kotlin,Firebase) :
+- 1:1 채팅 (Kotlin,firebase) : 
 
 # 제작 게임
 - 슈터 : 
