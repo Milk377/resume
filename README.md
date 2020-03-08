@@ -1,6 +1,6 @@
 # About me
 ![111](https://user-images.githubusercontent.com/37606666/74585495-95c34780-5020-11ea-879b-bb0fa6cc811c.jpg)
-- more Phothos : 
+- more Phothos : https://github.com/Milk377/photos
 
 
 # Programming Experience 
