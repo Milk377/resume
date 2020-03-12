@@ -58,25 +58,26 @@
 - 싱글 오목 (C#) : https://github.com/Milk377/P04_Cs_Omok
 - 서버 프로그램(C++) : https://github.com/Milk377/P03_Cpp_ServerProgram
 - 주식 자동 매매 프로그램 (C#) : https://github.com/Milk377/AuotoStockInvestProgram
-- TCP 에코 통신 프로그램 (C++) : 
-- 안드로이드 SNS 앱 (Kotlin,Firebase) :
-- 1:1 채팅 (Kotlin,firebase) : 
-- 삼다수 (React Native) : 
+- TCP 에코 통신 프로그램 (C++) : (업로드 예정)
+- 안드로이드 SNS 앱 (Kotlin,Firebase) :(업로드 예정)
+- 1:1 채팅 (Kotlin,firebase) : (업로드 예정)
+- 삼다수 (React Native) : (학습 중)
 
 
 # 제작 게임
-- 슈터 : 
+- 슈터 : (개발중)
 - 슈팅 :  https://github.com/Milk377/Shooting
 - 컬러볼 팡팡 : https://github.com/Milk377/PangPang
-- 클리커 X : 
+- 클리커 X : (개발중)
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 타로 게임 : https://github.com/Milk377/TaroGame
 - 궁수의 전설 게임 : https://github.com/Milk377/LegendOfArcher
-- 좀비 서바이벌 : 
-- 도파민 카운터 : 
-- 프린세스 마린 스트라이크 :
-- Card Match : (저작권 주의) 
-- Card Match Ver2 : 
+- 좀비 서바이벌 : (개발중)
+- 도파민 카운터 : (개발중)
+- 프린세스 마린 스트라이크 :(개발중):
+- Card Match : https://github.com/Milk377/Cardmatch
+- Card Match Ver2 (코드 리팩토링) : 
+- Card Match Ver3 (이미지, 기획 수정) : 
 
 # 아트 리소스
 
@@ -89,5 +90,5 @@
 - 도파민 일기 : https://play.google.com/store/apps/details?id=com.ndolpin.myapplication.ndolpin
 
 # 구글 플레이 스토어 출시 게임
-- 클리커X :
-- 슈터X : 
+- 클리커X : (업로드 예정)
+- 슈터X : (업로드 예정)
