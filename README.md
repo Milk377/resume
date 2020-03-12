@@ -14,9 +14,9 @@
 # 주 사용 언어 : C, C++, C#, Java
 
 # NOW WORKING
-- G사 기업 과제 ( due 2019.03.16)
+- GameSpring Unity Test Project( due 2019.03.16)
 - 냥두리 프로젝트 (2019.03.17 ~ )
-- P사 기업 과제 (2019.03.17 ~ )
+- Poly Cube React Native (2019.03.17 ~ )
 
 # Android Studio
 - Andorid Studio 를 사용하여 Java 언어로 팀 프로젝트 어플리케이션 개발 및 출시 경험 (커뮤니티 앱)
