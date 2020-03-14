@@ -80,7 +80,7 @@
 - 도파민 카운터 : (개발중)
 - 프린세스 마린 스트라이크 :(개발중):
 - Card Match : https://github.com/Milk377/Cardmatch
-- Card Match Ver2 (코드 리팩토링) : 
+- Card Match Ver2 (FSM, OOP, SingleTone) : https://github.com/Milk377/cardmatchver2
 - Card Match Ver3 (이미지, 기획 수정) : 
 
 # 아트 리소스
