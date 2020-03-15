@@ -13,8 +13,8 @@
 
 # 주 사용 언어 : C, C++, C#, Java
 
-# NOW WORKING
-- GameSpring Unity Test Project( due 2019.03.16)
+# RECENT WORKING
+- GameSpring Unity Test Project( 1차 : 2019.03.04 ~ 2019.03.08 / 2차: 2019.03.12 ~ 2019.03.16)
 - 냥두리 프로젝트 (2019.03.17 ~ )
 - Poly Cube React Native (2019.03.17 ~ )
 
@@ -69,18 +69,18 @@
 
 
 # 제작 게임
-- 슈터 : (개발중)
-- 슈팅 :  https://github.com/Milk377/Shooting
-- 컬러볼 팡팡 : https://github.com/Milk377/PangPang
-- 클리커 X : (개발중)
+- Card Match Ver2 (FSM, OOP, SingleTone) : https://github.com/Milk377/cardmatchver2
+- Card Match : https://github.com/Milk377/Cardmatch
+- 궁수의 전설 게임 (3D) : https://github.com/Milk377/LegendOfArcher
 - 2Player 풍선 게임 (Java) : https://github.com/Milk377/PrincessFightGame
 - 타로 게임 : https://github.com/Milk377/TaroGame
-- 궁수의 전설 게임 : https://github.com/Milk377/LegendOfArcher
+- 슈팅 :  https://github.com/Milk377/Shooting
+- 컬러볼 팡팡 : https://github.com/Milk377/PangPang
+- 슈터 : (개발중)
+- 클리커 X : (개발중)
 - 좀비 서바이벌 : (개발중)
 - 도파민 카운터 : (개발중)
 - 프린세스 마린 스트라이크 :(개발중):
-- Card Match : https://github.com/Milk377/Cardmatch
-- Card Match Ver2 (FSM, OOP, SingleTone) : https://github.com/Milk377/cardmatchver2
 - Card Match Ver3 (이미지, 기획 수정) : 
 
 # 아트 리소스
