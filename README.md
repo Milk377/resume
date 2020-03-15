@@ -14,7 +14,7 @@
 # 주 사용 언어 : C, C++, C#, Java
 
 # RECENT WORKING
-- GameSpring Unity Test Project( 1차 : 2019.03.04 ~ 2019.03.08 / 2차: 2019.03.12 ~ 2019.03.16)
+- GameSpring Unity Test Project  (1차 : 2019.03.04 ~ 2019.03.08 / 2차: 2019.03.12 ~ 2019.03.16)
 - 냥두리 프로젝트 (2019.03.17 ~ )
 - Poly Cube React Native (2019.03.17 ~ ) 
 
