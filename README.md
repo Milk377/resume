@@ -5,12 +5,12 @@
 ![111](https://user-images.githubusercontent.com/37606666/74585495-95c34780-5020-11ea-879b-bb0fa6cc811c.jpg)
 - more Phothos : https://github.com/Milk377/photos
 
-# Now WORKING
-- Poly Cube React Native APP: 2019.03.17 ~ :
-- 냥두리 게임 프로젝트: 2020.03.17 ~ :
+# NOW WORKING
+- React Native APP Project: 
+- 냥두리 게임 프로젝트:  
 
 # RECENT WORKING
-- (종료) GameSpring Unity Test Project  (1차 : 2020.03.04 ~ 2020.03.08 / 2차: 2020.03.12 ~ 2020.03.16)
+- (종료) Unity Test Project  (1차 : 2020.03.04 ~ 2020.03.08 / 2차: 2020.03.12 ~ 2020.03.16)
  
 
 # Android Studio
