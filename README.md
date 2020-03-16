@@ -5,21 +5,13 @@
 ![111](https://user-images.githubusercontent.com/37606666/74585495-95c34780-5020-11ea-879b-bb0fa6cc811c.jpg)
 - more Phothos : https://github.com/Milk377/photos
 
-
-# Programming Experience 
-- Spring/Bootstrap Framework / JSP/ Java / Kotlin / HTML / CSS / Java Script
-- C, C++ , C# 
-- Firebase / Oracle DB 11g / CSV table (in Unity) / PUN (Photon Unity Network in Unity) / AWS
-- Phyton
-
-# Game Client / Android OS / Front End / Back End / 
-
-# 주 사용 언어 : C, C++, C#, Java
+# Now WORKING
+- Poly Cube React Native APP: 2019.03.17 ~ :
+- 냥두리 게임 프로젝트: 2020.03.17 ~ :
 
 # RECENT WORKING
-- GameSpring Unity Test Project  (1차 : 2019.03.04 ~ 2019.03.08 / 2차: 2019.03.12 ~ 2019.03.16)
-- 냥두리 프로젝트 (2019.03.17 ~ )
-- Poly Cube React Native (2019.03.17 ~ ) 
+- (종료) GameSpring Unity Test Project  (1차 : 2020.03.04 ~ 2020.03.08 / 2차: 2020.03.12 ~ 2020.03.16)
+ 
 
 # Android Studio
 - Andorid Studio 를 사용하여 Java 언어로 팀 프로젝트 어플리케이션 개발 및 출시 경험 (커뮤니티 앱)
